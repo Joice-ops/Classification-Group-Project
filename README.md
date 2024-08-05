@@ -8,5 +8,5 @@ This project involves building a predictive model to determine whether customers
 
 This project is organized as follows:
 - Data: [Telco customer churn](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113)
-- [Classification_GroupProject](): The Jupyter Notebook containing the full analysis and modeling process.
-- [README.md](https://github.com/Joice-ops/Classification-Group-Project/edit/main/README.md): This file, providing an overview of the project.
+- [Classification_GroupProject]: The Jupyter Notebook containing the full analysis and modeling process.
+- [README.md]: This file, providing an overview of the project.
