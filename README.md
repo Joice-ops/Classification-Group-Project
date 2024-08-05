@@ -24,7 +24,8 @@ This project is organized as follows:
 
 3. **Model Comparison:**
    - Compared three classification models: KNN Classifier, Logistic Regression, Random Forest.
-   - Evaluated models using GridSearchCV and selected the best-performing model.
+   - Evaluated models using Confusion Matrix and Classification Report
+   - Tuning Hyperparameters by GridSearchCV and selected the best-performing model.
 
 4. **Final Model Testing:**
    - Tested the final model by making predictions on new input data.
