@@ -2,7 +2,7 @@
 
 ## Introduction :book:
 
-This project involves building a predictive model to determine whether customers of a fictional telecommunications company will churn. Churn analysis is crucial for understanding why customers discontinue their services and what factors contribute to this decision. The dataset contains information about 7043 customers in California, including various demographic details, company's services and products, Churn Score, and Customer Lifetime Value (CLTV) index.
+This project involves building a predictive model to determine whether customers of a fictional telecommunications company will churn. Churn analysis is crucial for understanding why customers discontinue their services and what factors contribute to this decision. The dataset contains information about 7043 customers in California, including various demographic details, the company's services and products, customers' family members, Churn Score, and Customer Lifetime Value (CLTV) index.
 
 ## Project Structure :bookmark_tabs:
 
@@ -25,7 +25,7 @@ This project is organized as follows:
 3. **Model Comparison:**
    - Compared three classification models: KNN Classifier, Logistic Regression, Random Forest.
    - Evaluated models using Confusion Matrix and Classification Report
-   - Tuning Hyperparameters by GridSearchCV and selected the best-performing model.
+   - Tuning Hyperparameters by GridSearchCV and selecting the best-performing model.
 
 4. **Final Model Testing:**
    - Tested the final model by making predictions on new input data.
