@@ -32,7 +32,7 @@ This project is organized as follows:
   
 ## Results :memo:
 
-The final model Random Forest demonstrated strong performance metrics, indicating its effectiveness in identifying customers who are likely to churn. 
+The final model Random Forest demonstrated strong performance metrics, with an accuracy score of 92%, indicating its effectiveness in identifying customers who are likely to churn. 
 
 ## Conclusion :page_facing_up:
 
