@@ -33,11 +33,11 @@ This project is organized as follows:
 
 The final model demonstrated strong performance metrics, indicating its effectiveness in identifying customers who are likely to churn. 
 
-## Conclusion
+## Conclusion :page_facing_up:
 
 By understanding the factors that contribute to churn, the company can take proactive measures to reduce churn rates, ultimately leading to increased customer retention and revenue.
 
-## Acknowledgements
+## Acknowledgements :label:
 
 This project is based on a fictional dataset provided for educational purposes. Special thanks to the creators of the dataset and the resources used for this analysis.
 
