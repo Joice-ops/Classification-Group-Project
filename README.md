@@ -32,8 +32,23 @@ This project is organized as follows:
   
 ## Results :memo:
 
-The final model Random Forest demonstrated strong performance metrics, with an accuracy score of 92%, indicating its effectiveness in identifying customers who are likely to churn. 
+The final model Random Forest demonstrated strong performance metrics, with an accuracy score of 92%, indicating its effectiveness in identifying customers who are likely to churn. Here are the results of each model:
 
+- KNN Classifier:
+  + Accuracy Score: 0.89
+  + Churn Precision Score: 0.79
+  + Churn Recall Score: 0.79
+    
+- Logistic Regression:
+  + Accuracy Score: 0.90
+  + Churn Precision Score: 0.81
+  + Churn Recall Score: 0.84
+  
+- Random Forest
+  + Accuracy Score: 0.92
+  + Churn Precision Score: 0.86
+  + Churn Recall Score: 0.85
+     
 ## Conclusion :page_facing_up:
 
 By understanding the factors that contribute to churn, the company can take proactive measures to reduce churn rates, tailoring strategies to give more support to seniors, and sending out loyalty offers to customers who might leave, ultimately leading to increased customer retention and revenue.
